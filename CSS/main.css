@@ -1,0 +1,30 @@
+
+.m-cstm {
+    margin-top: 146px;
+}
+
+.button{
+    border-radius: 20px;
+    transition: all 0.3s;
+    background-color: #df7f8f;
+    color: white;
+}
+
+.button:hover{
+background-color: #e992b6;
+color: white;
+}
+
+
+.clr-cstm {
+    font-weight: bold;
+    background: linear-gradient(90deg, #ff7eb3, #e96c80, #570a0a);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 5.625rem;
+}
+
+
+.bg {
+    background-color: #e0c5ca;
+}
